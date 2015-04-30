@@ -13,5 +13,9 @@ int main(int argc, char* argv[]) {
 
 	test(b);
 
+	int c = 100;
+
+	test(c);
+
 	return 0;
 }
