@@ -2,4 +2,8 @@ It has a line text at first.
 
 This is a second text file.
 
+<<<<<<< HEAD
 It has a line text at last ,too.
+
+Now it has some text at the end!! .... :D
+>>>>>>> cmerge
