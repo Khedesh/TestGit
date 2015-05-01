@@ -1,1 +1,5 @@
+It has a line text at first.
+
 This is a second text file.
+
+It has a line text at last ,too.
