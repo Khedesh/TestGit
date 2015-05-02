@@ -17,5 +17,7 @@ int main(int argc, char* argv[]) {
 
 	test(c);
 
+	printf("hello");
+
 	return 0;
 }
